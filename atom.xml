@@ -3,11 +3,11 @@
   <title>屁屁汪Blog</title>
   
   <subtitle> </subtitle>
-  <link href="http://waterkin.github.io/atom.xml" rel="self"/>
+  <link href="http://waterking.cc/atom.xml" rel="self"/>
   
-  <link href="http://waterkin.github.io/"/>
+  <link href="http://waterking.cc/"/>
   <updated>2022-06-19T08:05:08.171Z</updated>
-  <id>http://waterkin.github.io/</id>
+  <id>http://waterking.cc/</id>
   
   <author>
     <name>屁屁汪</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://waterkin.github.io/2022/061816107.html"/>
-    <id>http://waterkin.github.io/2022/061816107.html</id>
+    <link href="http://waterking.cc/2022/061816107.html"/>
+    <id>http://waterking.cc/2022/061816107.html</id>
     <published>2022-06-18T10:47:25.025Z</published>
     <updated>2022-06-19T08:05:08.171Z</updated>
     
